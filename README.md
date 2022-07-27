@@ -2,7 +2,11 @@
 
 Front End website
 
-This is my Future Ready Talent Project Azure Site Link: https://blue-tree-006ce9110.1.azurestaticapps.net
+This is my Future Ready Talent Project 
+
+Azure Site Link: https://blue-tree-006ce9110.1.azurestaticapps.net
+
+Github Site Link: https://roman5p.github.io/FRT/
 
 # Industry Name*:
 
